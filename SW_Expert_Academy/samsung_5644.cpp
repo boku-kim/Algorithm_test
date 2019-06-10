@@ -1,3 +1,5 @@
+/* 5644. [모의 SW 역량테스트] 무선 충전 */
+
 #define _CRT_SECURE_NO_WARNINGS
 #define MAX 10
 #include<stdio.h>
